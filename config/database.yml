@@ -87,5 +87,5 @@ test:
 production:
   <<: *default
   database: ngbigmoon_production
-  username: ngbigmoon
-  password: <%= ENV['NGBIGMOON_DATABASE_PASSWORD'] %>
+  username: admin
+  password: h0lein0ne
