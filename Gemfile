@@ -41,3 +41,5 @@ gem 'spring',        group: :development
 gem "angularjs-rails", "=1.2.6"
 gem "bootstrap-sass-rails", "=3.0.3.0"
 gem "underscore-rails", "=1.5.2"
+
+gem 'ngannotate-rails'
